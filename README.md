@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/96234417/155652152-80589072-f2b0-4968-b950-9cd48df0d4a8.png)
+
+
+
 - 👋 Hi, I’m @gunasgs
 - 👀 I’m interested in Full Stack Developer 
 - 🌱 I’m currently learning HTML & CSS & JAVASCRIPT 
