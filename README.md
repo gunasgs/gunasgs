@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @gunasgs
 - 👀 I’m interested in Full Stack Developer 
-- 🌱 I’m currently learning HTML & CSS & JAVASCRIPT 
+- 🌱 I’m currently learning HTML & CSS & JAVASCRIPT & REACTJS
 - 📫 How to reach me gunasgs357@gmail.com
 
 <!---
