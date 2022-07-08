@@ -19,12 +19,12 @@
 
   
 </p>
-<img alt="contribution" src="https://res.cloudinary.com/practicaldev/image/fetch/s--D-e-SdGc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/legnuefb30fdf1owkh98.gif" />
+<img alt="contribution" src="https://raw.githubusercontent.com/ragavkumarv/ragavkumarv/output/github-contribution-grid-snake.svg" />
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
 
 <a href="https://www.linkedin.com/in/guna-seelan-6b9636212/" target="_blank" ><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="sannasi" height="30" width="30" /></a>
-<a href="https://app.netlify.com/teams/gunasgs/overview" target="_blank"><img align="center" src="https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png" alt="gmail" height="35" width="40" /></a>
+
 </p>
 <!-- - 👋 Hi, I’m @gunasgs
 - 👀 I’m interested in Full Stack Developer 
