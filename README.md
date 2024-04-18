@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm <b>Gunaseelan</b> , <b>Full Stack Developer</b>  with the right mix of Functional programming from Dharmapuri, Tamilnadu.
-<br/>Goal driven person who loves to live on the bleeding edge of technology and passionate about learning web development.</p>
+<p>Welcome to my page! </br> I'm <b>Gunaseelan</b> , <b>Full Stack Developer</b>  with the right mix of Functional programming.
+<br/>Goal driven person who loves to live on the bleeding edge of technology and passionate about learning development.</p>
 
 ## ⚡ Things I code with
 
