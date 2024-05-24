@@ -19,7 +19,7 @@
 
   
 </p>
-<img alt="contribution" src="https://raw.githubusercontent.com/ragavkumarv/ragavkumarv/output/github-contribution-grid-snake.svg" />
+<img alt="contribution" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
 
